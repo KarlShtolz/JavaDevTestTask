@@ -1,11 +1,4 @@
-/**
- * Харьков Александр
- * tg: @karandres
- * Текстовые файлы input.txt и output.txt
- * разместите рядом с моим классом Main.java
- * У меня всё работает в соответствии с заданием.
- * Проект запускался в Eclipse на Windows.
- */
+
 package main;
 import java.io.BufferedReader;
 import java.io.File;
@@ -14,8 +7,8 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 public class Main {
-	private static final String BETON = "цемент";
-	private static final String CEMENT = "бетон";
+	private static final String BETON = "пїЅпїЅпїЅпїЅпїЅпїЅ";
+	private static final String CEMENT = "пїЅпїЅпїЅпїЅпїЅ";
 	private static final String EMPTY_STRING = "";
 	private static final String DELIMETER1 = ":";
 	private static final String DELIMETER2 = ":?";
