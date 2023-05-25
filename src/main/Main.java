@@ -7,8 +7,8 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 public class Main {
-	private static final String BETON = "������";
-	private static final String CEMENT = "�����";
+	private static final String BETON = "Бетон";
+	private static final String CEMENT = "Цемент";
 	private static final String EMPTY_STRING = "";
 	private static final String DELIMETER1 = ":";
 	private static final String DELIMETER2 = ":?";
